@@ -23,9 +23,9 @@
 
 3. **Deployment**
 
-    To make your site online, you can enable GitHub Pages for the repository (Settings -> Pages). Alternatively, you can use [Netlify](https://www.netlify.com/).
+    To make your site online, you can enable GitHub Pages for the repository (Settings -> Pages). Alternatively, you can use [Netlify](https://www.vercel.com/)
 
-## 📝 Contributing
+## 📝 Contributill
 
 If you have any ideas to make it more interesting, please submit a pull request or create an issue for a feature request.
 
